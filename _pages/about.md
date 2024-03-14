@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-我是[哈尔滨工程大学](https://www.hrbeu.edu.cn/)([计算机科学与技术学院]([https://eecs.pku.edu.cn/](https://cstc .hrbeu.edu.cn/))) 。目前，他已考入[北京大学](https://www.pku.edu.cn/)([软件与微电子学院](https://www.ss.pku.edu.cn/)) 新一代电子信息技术专业。我的研究兴趣包括计算机视觉生成、人工智能音频识别、LLM 和金融产品时间序列分析。
+我是[哈尔滨工程大学](https://www.hrbeu.edu.cn/)([计算机科学与技术学院]([https://eecs.pku.edu.cn/](https://cstc .hrbeu.edu.cn/))) 。已保研至[北京大学](https://www.pku.edu.cn/)([软件与微电子学院](https://www.ss.pku.edu.cn/)) 新一代电子信息技术专业。我的研究兴趣包括计算机视觉生成、人工智能音频识别、LLM 和金融产品时间序列分析。
 
 学业经历
 ======
