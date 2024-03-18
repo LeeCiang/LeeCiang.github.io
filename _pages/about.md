@@ -20,6 +20,8 @@ redirect_from:
 ======
 [AIGC项目-基于VSD损失和GaussianSplatting实现的3D内容生成](https://github.com/laoniandisko/GaussianSplattingVSD)
 
+[CLIP_Crime,多模态异常行为监测和caption](https://github.com/laoniandisko/CLIP_Crime/tree/master)
+
 [轻量化鸟类音频识别监测](https://github.com/laoniandisko/Kaggle-birdCLEF2023-finished)  
 
 [BERT 和 BiSRU-AT 的中文文本情感分类](https://github.com/laoniandisko/ROBERTAGCN)  
