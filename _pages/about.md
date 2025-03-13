@@ -7,22 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-我是[哈尔滨工程大学](https://www.hrbeu.edu.cn/)([计算机科学与技术学院]([https://eecs.pku.edu.cn/](https://cstc .hrbeu.edu.cn/))) 本科四年级学生，已保研至[北京大学](https://www.pku.edu.cn/)([软件与微电子学院](https://www.ss.pku.edu.cn/)) 新一代电子信息技术专业。我的研究兴趣包括计算机视觉生成、人工智能音频识别、LLM 和金融产品时间序列分析。
+我是[哈尔滨工程大学](https://www.hrbeu.edu.cn/)([计算机科学与技术学院]([https://eecs.pku.edu.cn/](https://cstc .hrbeu.edu.cn/))) 本科四年级学生，已保研至[北京大学](https://www.pku.edu.cn/)人工智能。我的研究兴趣包括计算机视觉生成、人工智能音频识别、LLM 和金融产品时间序列分析。
 
 学业经历
 ======
-2017.09-2020.08  安徽省五河第一中学  
 
-2020.09-Now      哈尔滨工程大学 陈赓工科实验班（计算机科学与技术）
 
+2020.09-2024.06      哈尔滨工程大学 陈赓工科实验班（计算机科学与技术）工学学士
+
+2024.09-至今      北京大学 人工智能 在读博士
 
 项目经历
 ======
+
+[轻量化鸟类音频识别监测](https://github.com/laoniandisko/Kaggle-birdCLEF2023-finished) 
+
 [AIGC项目-基于VSD损失和GaussianSplatting实现的3D内容生成](https://github.com/laoniandisko/GaussianSplattingVSD)
 
 [CLIP_Crime,多模态异常行为监测和caption](https://github.com/laoniandisko/CLIP_Crime/tree/master)
 
-[轻量化鸟类音频识别监测](https://github.com/laoniandisko/Kaggle-birdCLEF2023-finished)  
 
 [BERT 和 BiSRU-AT 的中文文本情感分类](https://github.com/laoniandisko/ROBERTAGCN)  
 
@@ -39,8 +42,6 @@ CoGSD: Fast Consistency Generation Based on 3D Gaussian Splatting
 RealDreamer: Realistic High-Fidelity 3D Content Generation  
 
 CoGS: Sketch-Conditioned Generation of 3D Content  
-
-PaintBrush3D: High-Resolution Sketch-to-3D Content Creation with 3D Gaussian Splatting  
 
 Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object  
 
