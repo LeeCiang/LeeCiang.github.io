@@ -24,7 +24,7 @@ author:
   avatar           : "profile1.png"
   name             : "Xiang Li"
   pronouns         : # example: "she/her"  
-  bio              : "ISTP"
+  # bio              : "ISTP"
   location         : "Beijing, China"
   employer         : "Peking University"
   uri              : "https://leeciang.github.io/"
